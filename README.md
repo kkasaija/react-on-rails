@@ -208,7 +208,7 @@ I would like to thank my friend [Inviiri Yusuf](https://github.com/yusufnviiri) 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Kasaija-Kenneth/react-on-rails/blob/dev/MIT.md) licensed.
+This project is [MIT](https://github.com/Kasaija-Kenneth/react-on-rails/blob/hello_rails_react/MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
